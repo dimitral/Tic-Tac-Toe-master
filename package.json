@@ -1,0 +1,24 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitral/Tic-Tac-Toe-master.git"
+  },
+  "author": "george livas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimitral/Tic-Tac-Toe-master/issues"
+  },
+  "homepage": "https://github.com/dimitral/Tic-Tac-Toe-master#readme"
+}

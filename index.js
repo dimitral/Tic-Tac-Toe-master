@@ -16,3 +16,8 @@ server.listen(port, (err) => {
 
   console.log(`server is listening on ${port}`)
 })
+
+////////////////////////////////////////////////////////////////////////////////
+for (let a = 1; a < 10; a++) {
+  console.log(a);
+}
